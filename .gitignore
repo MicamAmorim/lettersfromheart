@@ -1,0 +1,6 @@
+.vercel/
+node_modules/
+.env*
+*.pdf
+*.zip
+.DS_Store
